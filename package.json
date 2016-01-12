@@ -1,0 +1,23 @@
+{
+  "title": "mendeley-button",
+  "name": "savetomendeley",
+  "version": "0.0.1",
+  "description": "A simple button to Save to Mendeley",
+  "main": "index.js",
+  "author": {
+    "name": "Kevin Brightwell",
+    "email": "kevin.brightwell2@gmail.com",
+    "url": "https://github.com/Nava2"
+  },
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "mendeley"
+  ],
+  "dependencies": {
+    "immutable": "^3.7.6"
+  }
+}
